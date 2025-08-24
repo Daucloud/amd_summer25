@@ -27,6 +27,7 @@ marp: true
 --- 
 ## 本地开发
 - 以上的开发流程完全可以借助Ryzen AI PC 实现本地开发，方便快速地构建你自己的智能体。
+- 在本地构建Dify应用，并部署Ollama大模型接入到Dify节点。
 
 ---
 
@@ -43,7 +44,7 @@ docker compose up -d
 ---
 ### Ollama 部署
 1. `winget install --id=Ollama.Ollama -e`
-2. `ollama pull openbmb/minicpm-v4`
+2. `ollama pull hf-mirror.com/unsloth/got-oss-20b-GGUF`
 3. `ollama serve`
 ollama 默认将在`http://localhost:11434`运行
 
@@ -60,3 +61,8 @@ ollama 默认将在`http://localhost:11434`运行
 ## Appendix
 1. 讲义：https://github.com/Daucloud/amd_summer25
 2. `AEI4U` 主页：https://truth-kitchen-37f.notion.site/AEI4U-1c87097e35a88136b686fb1088683809
+
+---
+<!--_class: lead-->>
+# 谢谢
+2025.8.25
