@@ -1,4 +1,4 @@
-Summer Camp of AMD.
+**Summer Camp of AMD.**
 
 Lecture Note: https://docs.google.com/presentation/d/1fDjSxjLI-g0MiNelp0AUEhKvs7X_NHeXIETZlwyWJ8A/edit?usp=sharing
 
